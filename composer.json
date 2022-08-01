@@ -25,7 +25,7 @@
         "php": ">=7.0",
         "ccxt/ccxt": ">=1.55.43",
         "react/http": "*",
-        "recoil/react": "1.0.2",
+        "recoil/react": "*",
         "ratchet/pawl": "^0.3.4",
         "ext-ds": "*",
         "ext-json": "*"
